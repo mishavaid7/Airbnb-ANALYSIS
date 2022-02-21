@@ -6,8 +6,6 @@ I've always been curious about the people who put up their homes on AirBnb in Ne
 * The Data Source: http://insideairbnb.com/get-the-data.html 
 *This data is sourced from publicly available information from the Airbnb site. I did not perform the scrape myself. 
 
-![chartone](chartone.jpg)
-
 ## Findings 
 ### Total no. listings = 38,185 
 ### Total no. of hosts = 25,574
@@ -16,3 +14,4 @@ I've always been curious about the people who put up their homes on AirBnb in Ne
 ### Total no. of listings by hosts with 1 listing = 21,543
 ### Total no. of listings by hosts with more than 1 listing = 16,642
 
+## 43% of the listings are hosted by people with more than one listing. Those who have more than one listing make just about 15% of the total hosts. In other words, 4031 hosts control 16,642 listings in New York City.  
