@@ -1,4 +1,3 @@
-# Airbnb-ANALYSIS
  
 # 🏡 💰 Who is putting their homes on AirBnb? 💰🏡
 (See 'listings.ipynb' for my code and 'listings1.csv' for the raw data I used.  
