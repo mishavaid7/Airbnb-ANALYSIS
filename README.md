@@ -7,8 +7,8 @@ I've always been curious about the people who put up their homes on AirBnb in Ne
 *This data is sourced from publicly available information from the Airbnb site. I did not perform the scrape myself. 
 
 ## Findings 
-Total no. listings = 38,185 
-Total no. of hosts = 25,574
+### Total no. listings = 38,185 
+### Total no. of hosts = 25,574
 Total no. of hosts with 1 listing = 21,543 
 Total no. of hosts with more than 1 listing = 4031
 Total no. of listings by hosts with 1 listing = 21,543
